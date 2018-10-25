@@ -37,3 +37,24 @@
 
 
 */
+
+
+
+
+/*   GraphQl List
+
+{
+  author(id: "2") {
+    name
+    age
+    id
+  books {
+    name
+    id 
+    genre
+    authorId
+  }
+  }
+}
+
+*/
