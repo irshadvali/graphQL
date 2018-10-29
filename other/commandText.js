@@ -58,3 +58,40 @@
 }
 
 */
+
+
+/*
+All authoe with book name
+
+ {
+    authors{
+       name
+      books{
+        name
+      
+      }
+     
+   }
+}
+
+
+
+/*
+All book with author name
+
+
+ {
+    books{
+       name
+      author{
+        name
+      
+      }
+     
+   }
+}
+
+*/
+
+
+*/
