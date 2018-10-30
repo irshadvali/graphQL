@@ -93,5 +93,19 @@ All book with author name
 
 */
 
+/*
+Create a account in Mlab for database
+Install mongoose
+Create Model as Book.js and Author.js
+Create A constant as Mutation 
+
+mutation{
+  addAuthor(name:"Irshad Vali",age:29){
+    name
+    age
+  }
+}
+
+
 
 */
