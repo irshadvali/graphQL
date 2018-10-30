@@ -107,5 +107,10 @@ mutation{
 }
 
 
-
+mutation{
+  addBook(name:"book one",genre:"story book one",authorId:"5bd7ba9649b4d0047c48ed5e"){
+    name
+    genre
+  }
+}
 */
