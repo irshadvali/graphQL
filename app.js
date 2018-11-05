@@ -5,7 +5,7 @@ const schema=require("./schema/schema")
 const mongoose=require("mongoose")
 const app=express();
 
-mongoose.connect('mongodb://irshadvali:irshadvali_2014@ds145083.mlab.com:45083/gql-irshad')
+mongoose.connect('mongodb://abc:abc123@ds145083.mlab.com:45083/gql-irshad')
 mongoose.connection.once('open',()=>{
     console.log("connected to database")
 })
